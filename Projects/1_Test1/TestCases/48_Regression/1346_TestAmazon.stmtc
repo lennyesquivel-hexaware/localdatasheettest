@@ -1,0 +1,522 @@
+[
+  {
+    "TempId": 1346,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": {
+      "TestCase": null,
+      "Parameters": [
+        {
+          "TempId": 271,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "1",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "2",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "3",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "4",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "5",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "6",
+              "ParameterId": 271,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 1346,
+          "Name": "Iteration",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 272,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "0",
+              "ParameterId": 272,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 1346,
+          "Name": "Skip",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 273,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa, procesador AMD ryzen 5 procesador, GTX 1060 – color blanco",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "Placa base ASUS PRIME A320M-K AMD Ryzen AM4 DDR4 HDMI VGA M.2 USB 3.1 ATX",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "OLOY 8GB (1x8GB) DDR4 RAM 2400MHz sin búfer DIMM módulo de memoria de escritorio (MD4U082417IZSB)",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White, UL Listed)",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "Cougar mg110-w Juegos de PC Case- Port- USB 3.0 soporta hasta 7 fans- Cable Gestión sistema- Mini TOWER- Micro ATX",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
+              "ParameterId": 273,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 1346,
+          "Name": "DT_Product",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 274,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "14.96",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "62.98",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "26.49",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "12.00",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "37.99",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "59.99",
+              "ParameterId": 274,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 1346,
+          "Name": "DT_Price",
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "TempId": 275,
+          "Iterations": [
+            {
+              "Iteration": 1,
+              "Value": "ryzen 5 procesador",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "placa base am4",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 3,
+              "Value": "ram ddr4 8gb",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 4,
+              "Value": "power supply",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 5,
+              "Value": "micro atx case",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 6,
+              "Value": "graphics card",
+              "ParameterId": 275,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            }
+          ],
+          "DataSheetId": 1346,
+          "Name": "DT_Item",
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "Name": "TestAmazon",
+      "Created": null,
+      "Modified": null
+    },
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [
+      {
+        "TempId": 5610,
+        "StepNumber": 1,
+        "ActionId": 55,
+        "ComponentId": 1121,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": "AmazonSearch",
+        "Locator": null,
+        "Value": null,
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [
+          {
+            "TestCaseId": 1346,
+            "TestCaseStepId": 5610,
+            "ComponentId": 1121,
+            "ComponentStepId": 1581,
+            "TestCase": null,
+            "Value": "https://www.amazon.com/",
+            "TempId": 0,
+            "qTestStepKey": null,
+            "Name": null,
+            "Created": null,
+            "Modified": null
+          },
+          {
+            "TestCaseId": 1346,
+            "TestCaseStepId": 5610,
+            "ComponentId": 1121,
+            "ComponentStepId": 1582,
+            "TestCase": null,
+            "Value": "DT_Item",
+            "TempId": 0,
+            "qTestStepKey": null,
+            "Name": null,
+            "Created": null,
+            "Modified": null
+          },
+          {
+            "TestCaseId": 1346,
+            "TestCaseStepId": 5610,
+            "ComponentId": 1121,
+            "ComponentStepId": 1583,
+            "TestCase": null,
+            "Value": null,
+            "TempId": 0,
+            "qTestStepKey": null,
+            "Name": null,
+            "Created": null,
+            "Modified": null
+          }
+        ],
+        "Assertions": [],
+        "qTestStepId": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 5609,
+        "StepNumber": 2,
+        "ActionId": 1,
+        "ComponentId": null,
+        "CustomActionId": 122,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": "FindLowestPrice",
+        "Locator": null,
+        "Value": "DT_Item",
+        "Status": "Pending",
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "Assertions": [],
+        "qTestStepId": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "TestAmazon",
+    "Created": null,
+    "Modified": null
+  },
+  {
+    "TempId": 1121,
+    "Description": "",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "Steps": [
+      {
+        "TempId": 1581,
+        "StepNumber": 1,
+        "Description": null,
+        "LocatorTypeId": null,
+        "Locator": null,
+        "ActionId": 27,
+        "ParameterName": null,
+        "ParameterValue": "https://www.amazon.com/",
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "qTestStepIdForComp": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 1582,
+        "StepNumber": 2,
+        "Description": null,
+        "LocatorTypeId": 3,
+        "Locator": "twotabsearchtextbox",
+        "ActionId": 43,
+        "ParameterName": null,
+        "ParameterValue": "DT_Item",
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "qTestStepIdForComp": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 1583,
+        "StepNumber": 3,
+        "Description": null,
+        "LocatorTypeId": 7,
+        "Locator": "//input[@value='Ir']",
+        "ActionId": 9,
+        "ParameterName": null,
+        "ParameterValue": null,
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "qTestStepIdForComp": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "isPOM": true,
+    "TestSteps": [],
+    "Name": "AmazonSearch",
+    "Created": null,
+    "Modified": null
+  },
+  {
+    "TempId": 122,
+    "Description": "",
+    "Code": "////<Mandatory_libraries>\nimport org.openqa.selenium.By;\nimport org.openqa.selenium.InvalidElementStateException;\nimport org.openqa.selenium.JavascriptExecutor;\nimport org.openqa.selenium.Keys;\nimport org.openqa.selenium.NoSuchElementException;\nimport org.openqa.selenium.WebDriver;\nimport org.openqa.selenium.WebElement;\nimport org.openqa.selenium.interactions.Action;\nimport org.openqa.selenium.interactions.Actions;\nimport org.openqa.selenium.remote.CapabilityType;\nimport org.openqa.selenium.remote.DesiredCapabilities;\nimport org.openqa.selenium.remote.RemoteWebDriver;\nimport org.openqa.selenium.support.ui.ExpectedConditions;\nimport org.openqa.selenium.support.ui.Select;\nimport org.openqa.selenium.support.ui.WebDriverWait;\nimport stmJava.ActionResult;\nimport stmJava.CustomStep;\nimport java.util.HashMap;\nimport java.util.List;\nimport java.util.Map;\nimport java.util.concurrent.atomic.AtomicReference;\n\n//</Mandatory_libraries>\n// Additional libraries might be declared here\n\n\n//<This_lines_must_not_be_modified>\n   public class FindLowestPrice extends ActionResult\n   {\n       /// <summary>\n       /// A method to perform a custom test step\n       /// </summary>\n       /// <param>\n       /// The method receive parameters:\n       /// \t* driver which is an instance of WebDriver or a mobile driver such as AndroidDriver\n       /// \n       /// \t* and a second optional parameter which can be a String or a String[] array.\n       /// \t  One Parameter : public ActionResult Execute(WebDriver driver)\n       /// \t  Two Parameters: public ActionResult Execute(WebDriver driver, String inputValue)\n       ///              or: public ActionResult Execute(WebDriver driver, String[] inputValue)\n       /// </param>\n       /// <returns>\n       ///  The method returns an ActionResult object which is expected to contain the step\n       ///  execution information, such as the status (true or false equivalent to pass or fail), details \n       ///  that may explain the fail cause or some extra information and  the path to find the file resulting \n       ///  of a screenshot.\n       /// </returns>\n       ///  Also it is possible to save a String value to Datasheet.\n       ///  e.g. 1:\n       ///   actionResult.SaveParameterValue(\"DT_ParamName\", paramValue);\n       ///   actionResult.SaveParameterValue(\"GDT_ParamName\", paramValueGlobal);\n       ///  e.g. 2:\n       ///   actionResult.columnName = \"DatasheetColumnName\";\n       ///   actionResult.propertyValue = \"Value to be saved\";\n       ///  Or save several values to Datasheet.\n       ///   actionResult.ColumnNames.add('DatasheetColumnName1');\n       ///   actionResult.PropertyValues.add(Value to be saved1);\n       ///   actionResult.ColumnNames.add('DatasheetColumnNameN');\n       ///   actionResult.PropertyValues.add(Value to be savedN);\n       //</This_lines_must_not_be_modified>\n       //<Mandatory_lines>\n       public ActionResult Execute(WebDriver driver, String inputValue) //replace WebDriver by AndroidDriver for mobile actions\n       {\n           ActionResult actionResult = new ActionResult();\n           actionResult.status = false;\n           actionResult.comments =  \"\";\n       //</Mandatory_lines>\n       ///////////////WORKSPACE START////////////////////////////////////////////////////////////////////////////////////////\n       \n\ttry{\n\t\tMap<String, String> productsMap = getProducts(driver, inputValue);\n\t\tfor (int i = 0; i < 5; i++){\n\t\t\tdriver.findElement(By.xpath(\"//*[text() = 'Siguiente']\")).click();\n\t\t\tproductsMap.putAll(getProducts(driver, inputValue));\n\t\t}\n\t\tAtomicReference<String> minValue = new AtomicReference<>();\n\t\tAtomicReference<String> minKey = new AtomicReference<>();\n\t\tString[] values = productsMap.values().toArray(new String[0]);\n\t\tString[] keys = productsMap.keySet().toArray(new String[0]);\n\t\tminValue.set(values[0].toString());\n\t\tminKey.set(keys[0].toString());\n\t\tfor (int i = 0; i < keys.length; i++) {\n\t\t\tif(Float.valueOf(values[i].toString()) < Float.valueOf(minValue.get())) {\n\t\t\t\tminValue.set(values[i].toString());\n\t\t\t\tminKey.set(keys[i].toString());\n\t\t\t}\n\t\t}\n\t\tactionResult.SaveParameterValue(\"DT_Product\", minKey.get());\n\t\tactionResult.SaveParameterValue(\"DT_Price\", minValue.get());\n\t\tactionResult.status = true;\n\t\tactionResult.comments = \"Lowest Price = \" + minValue + \" for \" + minKey;\n\t}catch(Exception ex){\n\t\tactionResult.status = false;\n\t\tactionResult.comments = ex.getMessage();\n\t}\n\n        ///////////////WORKSPACE END////////////////////////////////////////////////////////////////////////////////////////\n       //</Mandatory_lines>\n       // Return results in ActionResult object\n           return actionResult;\n       }\n\n\tpublic static Map<String, String> getProducts(WebDriver drvr, String desiredProduct) {\n\t\tList<WebElement> products = drvr.findElements(By.xpath(\"//div[@data-index]\"));\n\t\tMap<String,String> productsMap = new HashMap<String, String>();\n\t\tfor(WebElement product : products){\n\t\t\ttry {\n\t\t\t\tint count = 0;\n\t\t\t\tString name = product.findElement(By.xpath(\".//a[@class='a-link-normal a-text-normal']\")).getText();\n\t\t\t\tString price = product.findElement(By.xpath(\".//span[@class='a-price']\")).getText().replace(\"\\n\",\".\").replace(\"US$\",\"\").replace(\",\",\"\").trim();\n\t\t\t\tif(desiredProduct.contains(\" \")){\n\t\t\t\t\tString[] productArray = desiredProduct.split(\" \");\n\t\t\t\t\tfor (String word : productArray) {\n\t\t\t\t\t\tif(name.toLowerCase().contains(word.toLowerCase()))\n\t\t\t\t\t\t\tcount ++;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\tif(name.toLowerCase().contains(desiredProduct.toLowerCase()) || (count > 2))\n\t\t\t\t\tproductsMap.put(name, price);\n\t\t\t} catch (NoSuchElementException ex) { }\n\t\t}\n\t\treturn productsMap;\n\t}\n\n   }\n //</Mandatory_lines>\n",
+    "Type": 1,
+    "Name": "FindLowestPrice",
+    "Created": null,
+    "Modified": null
+  }
+]
