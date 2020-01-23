@@ -74,7 +74,7 @@
     "Authentication": null,
     "TestSteps": [
       {
-        "TempId": 26920,
+        "TempId": 26929,
         "StepNumber": 1,
         "ActionId": 27,
         "ComponentId": null,
@@ -99,7 +99,7 @@
         "Modified": null
       },
       {
-        "TempId": 26919,
+        "TempId": 26928,
         "StepNumber": 2,
         "ActionId": 27,
         "ComponentId": null,
@@ -124,7 +124,7 @@
         "Modified": null
       },
       {
-        "TempId": 26918,
+        "TempId": 26927,
         "StepNumber": 3,
         "ActionId": 27,
         "ComponentId": null,
@@ -149,7 +149,7 @@
         "Modified": null
       },
       {
-        "TempId": 26917,
+        "TempId": 26926,
         "StepNumber": 4,
         "ActionId": 27,
         "ComponentId": null,
@@ -163,31 +163,6 @@
         "Description": null,
         "Locator": null,
         "Value": "fghdfghdfghdh",
-        "Status": "Pending",
-        "UserSays": null,
-        "BotSays": null,
-        "Parameters": [],
-        "Assertions": [],
-        "qTestStepId": null,
-        "Name": null,
-        "Created": null,
-        "Modified": null
-      },
-      {
-        "TempId": 26916,
-        "StepNumber": 5,
-        "ActionId": 27,
-        "ComponentId": null,
-        "CustomActionId": null,
-        "StepSectionId": 2,
-        "ObjectDictionaryId": null,
-        "ImageRepositoryId": null,
-        "LocatorTypeId": null,
-        "Screenshot": false,
-        "SkipStep": false,
-        "Description": null,
-        "Locator": null,
-        "Value": "sadfasdfasdfasf",
         "Status": "Pending",
         "UserSays": null,
         "BotSays": null,
