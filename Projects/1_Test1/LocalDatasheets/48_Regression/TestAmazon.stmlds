@@ -1,0 +1,341 @@
+{
+  "TestCase": {
+    "TempId": 0,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "TestAmazon",
+    "Created": null,
+    "Modified": null
+  },
+  "Parameters": [
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "1",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "2",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "3",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "4",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "5",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "6",
+          "ParameterId": 617,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "Iteration",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "0",
+          "ParameterId": 618,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "Skip",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa procesador AMD ryzen 5 procesador GTX 1060 – color blanco",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "Placa base ASUS PRIME A320M-K AMD Ryzen AM4 DDR4 HDMI VGA M.2 USB 3.1 ATX",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "OLOY 8GB (1x8GB) DDR4 RAM 2400MHz sin búfer DIMM módulo de memoria de escritorio (MD4U082417IZSB)",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White UL Listed)",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "Cougar mg110-w Juegos de PC Case- Port- USB 3.0 soporta hasta 7 fans- Cable Gestión sistema- Mini TOWER- Micro ATX",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
+          "ParameterId": 619,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "DT_Product",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "14.96",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "62.98",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "26.49",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "12.00",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "37.99",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "59.99",
+          "ParameterId": 620,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "DT_Price",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "ryzen 5 procesador",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "placa base am4",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "ram ddr4 8gb",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "power supply",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "micro atx case",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "graphics card",
+          "ParameterId": 621,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "DT_Item",
+      "Created": null,
+      "Modified": null
+    }
+  ],
+  "Name": "TestAmazon",
+  "Created": null,
+  "Modified": null
+}
