@@ -25,7 +25,7 @@
         {
           "Iteration": 1,
           "Value": "1",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -34,7 +34,7 @@
         {
           "Iteration": 2,
           "Value": "2",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -43,7 +43,7 @@
         {
           "Iteration": 3,
           "Value": "3",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -52,7 +52,7 @@
         {
           "Iteration": 4,
           "Value": "4",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -61,7 +61,7 @@
         {
           "Iteration": 5,
           "Value": "5",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -70,7 +70,7 @@
         {
           "Iteration": 6,
           "Value": "6",
-          "ParameterId": 755,
+          "ParameterId": 790,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -88,7 +88,7 @@
         {
           "Iteration": 1,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -97,7 +97,7 @@
         {
           "Iteration": 2,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -106,7 +106,7 @@
         {
           "Iteration": 3,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -115,7 +115,7 @@
         {
           "Iteration": 4,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -124,7 +124,7 @@
         {
           "Iteration": 5,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -133,7 +133,7 @@
         {
           "Iteration": 6,
           "Value": "0",
-          "ParameterId": 756,
+          "ParameterId": 791,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -150,8 +150,8 @@
       "Iterations": [
         {
           "Iteration": 1,
-          "Value": "jhkhjkhjkhj",
-          "ParameterId": 757,
+          "Value": "qwer",
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -160,7 +160,7 @@
         {
           "Iteration": 2,
           "Value": "body",
-          "ParameterId": 757,
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -169,7 +169,7 @@
         {
           "Iteration": 3,
           "Value": "once",
-          "ParameterId": 757,
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -178,7 +178,7 @@
         {
           "Iteration": 4,
           "Value": "told",
-          "ParameterId": 757,
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -187,7 +187,7 @@
         {
           "Iteration": 5,
           "Value": "me",
-          "ParameterId": 757,
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -196,7 +196,7 @@
         {
           "Iteration": 6,
           "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
-          "ParameterId": 757,
+          "ParameterId": 792,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -214,7 +214,7 @@
         {
           "Iteration": 1,
           "Value": "14.96",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -223,7 +223,7 @@
         {
           "Iteration": 2,
           "Value": "62.98",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -232,7 +232,7 @@
         {
           "Iteration": 3,
           "Value": "26.49",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -241,7 +241,7 @@
         {
           "Iteration": 4,
           "Value": "12.00",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -250,7 +250,7 @@
         {
           "Iteration": 5,
           "Value": "37.99",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -259,7 +259,7 @@
         {
           "Iteration": 6,
           "Value": "59.99",
-          "ParameterId": 758,
+          "ParameterId": 793,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -277,7 +277,7 @@
         {
           "Iteration": 1,
           "Value": "ryzen 5 procesador",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -286,7 +286,7 @@
         {
           "Iteration": 2,
           "Value": "placa base am4",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -295,7 +295,7 @@
         {
           "Iteration": 3,
           "Value": "ram ddr4 8gb",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -304,7 +304,7 @@
         {
           "Iteration": 4,
           "Value": "power supply",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -313,7 +313,7 @@
         {
           "Iteration": 5,
           "Value": "micro atx case",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -322,7 +322,7 @@
         {
           "Iteration": 6,
           "Value": "graphics card",
-          "ParameterId": 759,
+          "ParameterId": 794,
           "Skip": 0,
           "Name": null,
           "Created": null,
