@@ -25,7 +25,7 @@
         {
           "Iteration": 1,
           "Value": "1",
-          "ParameterId": 805,
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -34,7 +34,7 @@
         {
           "Iteration": 2,
           "Value": "2",
-          "ParameterId": 805,
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -43,7 +43,7 @@
         {
           "Iteration": 3,
           "Value": "3",
-          "ParameterId": 805,
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -52,7 +52,7 @@
         {
           "Iteration": 4,
           "Value": "4",
-          "ParameterId": 805,
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -61,7 +61,7 @@
         {
           "Iteration": 5,
           "Value": "5",
-          "ParameterId": 805,
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -70,7 +70,16 @@
         {
           "Iteration": 6,
           "Value": "6",
-          "ParameterId": 805,
+          "ParameterId": 823,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "7",
+          "ParameterId": 823,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -88,7 +97,7 @@
         {
           "Iteration": 1,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -97,7 +106,7 @@
         {
           "Iteration": 2,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -106,7 +115,7 @@
         {
           "Iteration": 3,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -115,7 +124,7 @@
         {
           "Iteration": 4,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -124,7 +133,7 @@
         {
           "Iteration": 5,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -133,7 +142,16 @@
         {
           "Iteration": 6,
           "Value": "0",
-          "ParameterId": 806,
+          "ParameterId": 824,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "0",
+          "ParameterId": 824,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -151,7 +169,7 @@
         {
           "Iteration": 1,
           "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa, procesador AMD ryzen 5 procesador, GTX 1060 – color blanco",
-          "ParameterId": 807,
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -160,7 +178,7 @@
         {
           "Iteration": 2,
           "Value": "MSI ProSeries AMD A320 1ª, 2ª, 3ª generación compatible con Ryzen AM4 DDR4 HDMI DVI M.2 USB 3 Micro-ATX placa base (A320M-A PRO MAX)",
-          "ParameterId": 807,
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -169,7 +187,7 @@
         {
           "Iteration": 3,
           "Value": "Dolgix- 8GB DDR4 PC4-17000 2133MHz for Desktop PC4-2133 Memory Non ECC Low Density RAM",
-          "ParameterId": 807,
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -178,7 +196,7 @@
         {
           "Iteration": 4,
           "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White, UL Listed)",
-          "ParameterId": 807,
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -187,7 +205,7 @@
         {
           "Iteration": 5,
           "Value": "Montech Flyer- Black/Micro ATX, Mini-ITX/Pre-Installed 2 Fans/High-Airflow/Computer Gaming Case/Hairline Surface Front Panel/RGB LED Shinning Strip/Three Versions Lighting Effects",
-          "ParameterId": 807,
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -196,7 +214,16 @@
         {
           "Iteration": 6,
           "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
-          "ParameterId": 807,
+          "ParameterId": 825,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "Sceptre 24\" Curvo 75Hz Gaming LED Monitor Full HD 1080P HDMI VGA Altavoces, VESA Montaje en Pared Ready Metal Negro 2019 (C248W-1920RN), Negro Metálico",
+          "ParameterId": 825,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -214,7 +241,7 @@
         {
           "Iteration": 1,
           "Value": "14.96",
-          "ParameterId": 808,
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -223,7 +250,7 @@
         {
           "Iteration": 2,
           "Value": "54.99",
-          "ParameterId": 808,
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -232,7 +259,7 @@
         {
           "Iteration": 3,
           "Value": "24.99",
-          "ParameterId": 808,
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -241,7 +268,7 @@
         {
           "Iteration": 4,
           "Value": "12.00",
-          "ParameterId": 808,
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -250,7 +277,7 @@
         {
           "Iteration": 5,
           "Value": "48.99",
-          "ParameterId": 808,
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -259,7 +286,16 @@
         {
           "Iteration": 6,
           "Value": "59.99",
-          "ParameterId": 808,
+          "ParameterId": 826,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "109.99",
+          "ParameterId": 826,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -277,7 +313,7 @@
         {
           "Iteration": 1,
           "Value": "ryzen 5 procesador",
-          "ParameterId": 809,
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -286,7 +322,7 @@
         {
           "Iteration": 2,
           "Value": "placa base am4",
-          "ParameterId": 809,
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -295,7 +331,7 @@
         {
           "Iteration": 3,
           "Value": "ram ddr4 8gb",
-          "ParameterId": 809,
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -304,7 +340,7 @@
         {
           "Iteration": 4,
           "Value": "power supply",
-          "ParameterId": 809,
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -313,7 +349,7 @@
         {
           "Iteration": 5,
           "Value": "micro atx case",
-          "ParameterId": 809,
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -322,7 +358,16 @@
         {
           "Iteration": 6,
           "Value": "graphics card",
-          "ParameterId": 809,
+          "ParameterId": 827,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "1080p 24\" monitor",
+          "ParameterId": 827,
           "Skip": 0,
           "Name": null,
           "Created": null,
