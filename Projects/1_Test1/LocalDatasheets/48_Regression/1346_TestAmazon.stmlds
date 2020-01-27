@@ -25,7 +25,7 @@
         {
           "Iteration": 1,
           "Value": "1",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -34,7 +34,7 @@
         {
           "Iteration": 2,
           "Value": "2",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -43,7 +43,7 @@
         {
           "Iteration": 3,
           "Value": "3",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -52,7 +52,7 @@
         {
           "Iteration": 4,
           "Value": "4",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -61,7 +61,7 @@
         {
           "Iteration": 5,
           "Value": "5",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -70,7 +70,7 @@
         {
           "Iteration": 6,
           "Value": "6",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -79,7 +79,7 @@
         {
           "Iteration": 7,
           "Value": "7",
-          "ParameterId": 823,
+          "ParameterId": 858,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -97,7 +97,7 @@
         {
           "Iteration": 1,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -106,7 +106,7 @@
         {
           "Iteration": 2,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -115,7 +115,7 @@
         {
           "Iteration": 3,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -124,7 +124,7 @@
         {
           "Iteration": 4,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -133,7 +133,7 @@
         {
           "Iteration": 5,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -142,7 +142,7 @@
         {
           "Iteration": 6,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -151,7 +151,7 @@
         {
           "Iteration": 7,
           "Value": "0",
-          "ParameterId": 824,
+          "ParameterId": 859,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -168,8 +168,8 @@
       "Iterations": [
         {
           "Iteration": 1,
-          "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa, procesador AMD ryzen 5 procesador, GTX 1060 – color blanco",
-          "ParameterId": 825,
+          "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa procesador AMD ryzen 5 procesador GTX 1060 – color blanco",
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -177,8 +177,8 @@
         },
         {
           "Iteration": 2,
-          "Value": "MSI ProSeries AMD A320 1ª, 2ª, 3ª generación compatible con Ryzen AM4 DDR4 HDMI DVI M.2 USB 3 Micro-ATX placa base (A320M-A PRO MAX)",
-          "ParameterId": 825,
+          "Value": "MSI ProSeries AMD A320 1ª 2ª 3ª generación compatible con Ryzen AM4 DDR4 HDMI DVI M.2 USB 3 Micro-ATX placa base (A320M-A PRO MAX)",
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -187,7 +187,7 @@
         {
           "Iteration": 3,
           "Value": "Dolgix- 8GB DDR4 PC4-17000 2133MHz for Desktop PC4-2133 Memory Non ECC Low Density RAM",
-          "ParameterId": 825,
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -195,8 +195,8 @@
         },
         {
           "Iteration": 4,
-          "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White, UL Listed)",
-          "ParameterId": 825,
+          "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White UL Listed)",
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -204,8 +204,8 @@
         },
         {
           "Iteration": 5,
-          "Value": "Montech Flyer- Black/Micro ATX, Mini-ITX/Pre-Installed 2 Fans/High-Airflow/Computer Gaming Case/Hairline Surface Front Panel/RGB LED Shinning Strip/Three Versions Lighting Effects",
-          "ParameterId": 825,
+          "Value": "Montech Flyer- Black/Micro ATX Mini-ITX/Pre-Installed 2 Fans/High-Airflow/Computer Gaming Case/Hairline Surface Front Panel/RGB LED Shinning Strip/Three Versions Lighting Effects",
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -214,7 +214,7 @@
         {
           "Iteration": 6,
           "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
-          "ParameterId": 825,
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -222,8 +222,8 @@
         },
         {
           "Iteration": 7,
-          "Value": "Sceptre 24\" Curvo 75Hz Gaming LED Monitor Full HD 1080P HDMI VGA Altavoces, VESA Montaje en Pared Ready Metal Negro 2019 (C248W-1920RN), Negro Metálico",
-          "ParameterId": 825,
+          "Value": "Sceptre 24\" Curvo 75Hz Gaming LED Monitor Full HD 1080P HDMI VGA Altavoces VESA Montaje en Pared Ready Metal Negro 2019 (C248W-1920RN) Negro Metálico",
+          "ParameterId": 860,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -241,7 +241,7 @@
         {
           "Iteration": 1,
           "Value": "14.96",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -250,7 +250,7 @@
         {
           "Iteration": 2,
           "Value": "54.99",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -259,7 +259,7 @@
         {
           "Iteration": 3,
           "Value": "24.99",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -268,7 +268,7 @@
         {
           "Iteration": 4,
           "Value": "12.00",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -277,7 +277,7 @@
         {
           "Iteration": 5,
           "Value": "48.99",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -286,7 +286,7 @@
         {
           "Iteration": 6,
           "Value": "59.99",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -295,7 +295,7 @@
         {
           "Iteration": 7,
           "Value": "109.99",
-          "ParameterId": 826,
+          "ParameterId": 861,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -313,7 +313,7 @@
         {
           "Iteration": 1,
           "Value": "ryzen 5 procesador",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -322,7 +322,7 @@
         {
           "Iteration": 2,
           "Value": "placa base am4",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -331,7 +331,7 @@
         {
           "Iteration": 3,
           "Value": "ram ddr4 8gb",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -340,7 +340,7 @@
         {
           "Iteration": 4,
           "Value": "power supply",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -349,7 +349,7 @@
         {
           "Iteration": 5,
           "Value": "micro atx case",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -358,7 +358,7 @@
         {
           "Iteration": 6,
           "Value": "graphics card",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -367,7 +367,7 @@
         {
           "Iteration": 7,
           "Value": "1080p 24\" monitor",
-          "ParameterId": 827,
+          "ParameterId": 862,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -376,6 +376,78 @@
       ],
       "DataSheetId": 1346,
       "Name": "DT_Item",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A07366058LNW26BUUYZU&url=%2Falimentaci%25C3%25B3n-g11df-dbr5-gtx1060-PC-sobremesa-procesador-procesador%2Fdp%2FB07B1FGX82%2Fref%3Dsr_1_27_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dryzen%2B5%2Bprocessor%26qid%3D1580148852%26sr%3D8-27-spons%26psc%3D1&qualifier=1580148852&id=1338815728762743&widgetName=sp_mtf",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "https://www.amazon.com/-/es/ProSeries-generaci%C3%B3n-compatible-PRO-MAX/dp/B0822M7BS5/ref=sr_1_12?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=am4+motherboard&qid=1580148866&sr=8-12",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "https://www.amazon.com/-/es/dp/B083B63KRV/ref=sr_1_21?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram+HDR4+8gb&qid=1580148911&sr=8-21",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 4,
+          "Value": "https://www.amazon.com/-/es/dp/B07Z8P61DQ/ref=sr_1_78?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=power+supply&qid=1580148937&sr=8-78",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 5,
+          "Value": "https://www.amazon.com/-/es/dp/B081Q7SD7L/ref=sr_1_16?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=micro+atx+case&qid=1580148944&sr=8-16",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 6,
+          "Value": "https://www.amazon.com/-/es/Radeon-HD7670-128Bit-Independent-Graphics/dp/B07V1T66KZ/ref=sr_1_70?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graphics+card&qid=1580148981&sr=8-70",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 7,
+          "Value": "https://www.amazon.com/-/es/Sceptre-Monitor-Altavoces-C248W-1920RN-Met%C3%A1lico/dp/B07KXSR99Y/ref=sr_1_30?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=24%22+monitor+1080p&qid=1580148996&sr=8-30",
+          "ParameterId": 863,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1346,
+      "Name": "DT_Link",
       "Created": null,
       "Modified": null
     }
