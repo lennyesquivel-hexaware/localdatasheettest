@@ -187,7 +187,7 @@
             },
             {
               "Iteration": 4,
-              "Value": "Raspberry Pi 4 Power Supply USB-C 5.1V 3A (White UL Listed)",
+              "Value": "Lenink CR2 Battery Eliminator Power Supply Adapter",
               "ParameterId": 860,
               "Skip": 0,
               "Name": null,
@@ -205,7 +205,7 @@
             },
             {
               "Iteration": 6,
-              "Value": "para AMD ATI Radeon HD7670 4GB DDR5 128Bit PCI-E Video Independent Graphics Card",
+              "Value": "ASUS AMD Radeon RX 5500XT Overclocked O8G GDDR6 Dual Fan EVO Edition HDMI DisplayPort Gaming Graphics Card (DUAL-RX5500XT-O8G-EVO) Tarjeta gráfica",
               "ParameterId": 860,
               "Skip": 0,
               "Name": null,
@@ -259,7 +259,7 @@
             },
             {
               "Iteration": 4,
-              "Value": "12.00",
+              "Value": "11.99",
               "ParameterId": 861,
               "Skip": 0,
               "Name": null,
@@ -277,7 +277,7 @@
             },
             {
               "Iteration": 6,
-              "Value": "59.99",
+              "Value": "209.99",
               "ParameterId": 861,
               "Skip": 0,
               "Name": null,
@@ -376,7 +376,7 @@
           "Iterations": [
             {
               "Iteration": 1,
-              "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A07366058LNW26BUUYZU&url=%2Falimentaci%25C3%25B3n-g11df-dbr5-gtx1060-PC-sobremesa-procesador-procesador%2Fdp%2FB07B1FGX82%2Fref%3Dsr_1_27_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dryzen%2B5%2Bprocessor%26qid%3D1580148852%26sr%3D8-27-spons%26psc%3D1&qualifier=1580148852&id=1338815728762743&widgetName=sp_mtf",
+              "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A07366058LNW26BUUYZU&url=%2Falimentaci%25C3%25B3n-g11df-dbr5-gtx1060-PC-sobremesa-procesador-procesador%2Fdp%2FB07B1FGX82%2Fref%3Dsr_1_27_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dryzen%2B5%2Bprocessor%26qid%3D1580233466%26sr%3D8-27-spons%26psc%3D1&qualifier=1580233466&id=4365814551865752&widgetName=sp_mtf",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -385,7 +385,7 @@
             },
             {
               "Iteration": 2,
-              "Value": "https://www.amazon.com/-/es/ProSeries-generaci%C3%B3n-compatible-PRO-MAX/dp/B0822M7BS5/ref=sr_1_12?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=am4+motherboard&qid=1580148866&sr=8-12",
+              "Value": "https://www.amazon.com/-/es/ProSeries-generaci%C3%B3n-compatible-PRO-MAX/dp/B0822M7BS5/ref=sr_1_12?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=am4+motherboard&qid=1580233485&sr=8-12",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -394,7 +394,7 @@
             },
             {
               "Iteration": 3,
-              "Value": "https://www.amazon.com/-/es/dp/B083B63KRV/ref=sr_1_21?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram+HDR4+8gb&qid=1580148911&sr=8-21",
+              "Value": "https://www.amazon.com/-/es/dp/B083B63KRV/ref=sr_1_68?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram+HDR4+8gb&qid=1580233537&sr=8-68",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -403,7 +403,7 @@
             },
             {
               "Iteration": 4,
-              "Value": "https://www.amazon.com/-/es/dp/B07Z8P61DQ/ref=sr_1_78?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=power+supply&qid=1580148937&sr=8-78",
+              "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_2?ie=UTF8&adId=A0706311385961FEF8AFN&url=%2Fdp%2FB082M5TKCF%2Fref%3Dsr_1_28_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dpower%2Bsupply%26qid%3D1580233556%26sr%3D8-28-spons%26psc%3D1&qualifier=1580233556&id=2291901110544165&widgetName=sp_mtf",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -412,7 +412,7 @@
             },
             {
               "Iteration": 5,
-              "Value": "https://www.amazon.com/-/es/dp/B081Q7SD7L/ref=sr_1_16?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=micro+atx+case&qid=1580148944&sr=8-16",
+              "Value": "https://www.amazon.com/-/es/dp/B081Q7SD7L/ref=sr_1_18?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=micro+atx+case&qid=1580233577&sr=8-18",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -421,7 +421,7 @@
             },
             {
               "Iteration": 6,
-              "Value": "https://www.amazon.com/-/es/Radeon-HD7670-128Bit-Independent-Graphics/dp/B07V1T66KZ/ref=sr_1_70?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graphics+card&qid=1580148981&sr=8-70",
+              "Value": "https://www.amazon.com/-/es/Overclocked-DisplayPort-Graphics-DUAL-RX5500XT-O8G-EVO-Tarjeta/dp/B082G4J2WG/ref=sr_1_83?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graphics+card&qid=1580233623&sr=8-83",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
@@ -430,7 +430,7 @@
             },
             {
               "Iteration": 7,
-              "Value": "https://www.amazon.com/-/es/Sceptre-Monitor-Altavoces-C248W-1920RN-Met%C3%A1lico/dp/B07KXSR99Y/ref=sr_1_30?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=24%22+monitor+1080p&qid=1580148996&sr=8-30",
+              "Value": "https://www.amazon.com/-/es/Sceptre-Monitor-Altavoces-C248W-1920RN-Met%C3%A1lico/dp/B07KXSR99Y/ref=sr_1_35?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=24%22+monitor+1080p&qid=1580233640&sr=8-35",
               "ParameterId": 863,
               "Skip": 0,
               "Name": null,
