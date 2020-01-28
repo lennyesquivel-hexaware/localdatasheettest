@@ -1,0 +1,134 @@
+{
+  "TestCase": {
+    "TempId": 0,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 7,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "WiniumTest",
+    "Created": null,
+    "Modified": null
+  },
+  "Parameters": [
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "1",
+          "ParameterId": 870,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "2",
+          "ParameterId": 870,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "3",
+          "ParameterId": 870,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1349,
+      "Name": "Iteration",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "",
+          "ParameterId": 871,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "",
+          "ParameterId": 871,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "",
+          "ParameterId": 871,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1349,
+      "Name": "Skip",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "qwerq",
+          "ParameterId": 872,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 2,
+          "Value": "qwerqwerqwer",
+          "ParameterId": 872,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 3,
+          "Value": "qwerqer",
+          "ParameterId": 872,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1349,
+      "Name": "DT_qwe",
+      "Created": null,
+      "Modified": null
+    }
+  ],
+  "Name": "WiniumTest",
+  "Created": null,
+  "Modified": null
+}
