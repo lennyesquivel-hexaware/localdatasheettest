@@ -12,12 +12,21 @@
       "TestCase": null,
       "Parameters": [
         {
-          "TempId": 614,
+          "TempId": 864,
           "Iterations": [
             {
               "Iteration": 1,
               "Value": "1",
-              "ParameterId": 614,
+              "ParameterId": 864,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "2",
+              "ParameterId": 864,
               "Skip": 0,
               "Name": null,
               "Created": null,
@@ -30,12 +39,21 @@
           "Modified": null
         },
         {
-          "TempId": 615,
+          "TempId": 865,
           "Iterations": [
             {
               "Iteration": 1,
+              "Value": "0",
+              "ParameterId": 865,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
               "Value": "",
-              "ParameterId": 615,
+              "ParameterId": 865,
               "Skip": 0,
               "Name": null,
               "Created": null,
@@ -48,12 +66,21 @@
           "Modified": null
         },
         {
-          "TempId": 616,
+          "TempId": 866,
           "Iterations": [
             {
               "Iteration": 1,
-              "Value": "wertwtr",
-              "ParameterId": 616,
+              "Value": "wertwetrwer",
+              "ParameterId": 866,
+              "Skip": 0,
+              "Name": null,
+              "Created": null,
+              "Modified": null
+            },
+            {
+              "Iteration": 2,
+              "Value": "fdgsdfgsfg",
+              "ParameterId": 866,
               "Skip": 0,
               "Name": null,
               "Created": null,
