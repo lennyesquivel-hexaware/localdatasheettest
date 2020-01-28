@@ -1,0 +1,37 @@
+[
+  {
+    "TempId": 1004,
+    "Description": "",
+    "isMobile": false,
+    "TestCaseType": 7,
+    "Steps": [
+      {
+        "TempId": 1012,
+        "StepNumber": 1,
+        "Description": null,
+        "LocatorTypeId": null,
+        "Locator": null,
+        "ActionId": 27,
+        "ParameterName": null,
+        "ParameterValue": "\"C:\\Program Files\\Cakewalk\\Cakewalk Core\\Cakewalk.exe\"",
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "ImageRepositoryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "UserSays": null,
+        "BotSays": null,
+        "Parameters": [],
+        "qTestStepIdForComp": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "isPOM": true,
+    "TestSteps": [],
+    "Name": "StartBandLab",
+    "Created": null,
+    "Modified": null
+  }
+]
