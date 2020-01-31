@@ -9,6 +9,13 @@
       "Key": "GDT_Tempo",
       "Value": "140",
       "GlobalSheetId": null
+    },
+    {
+      "Id": 48,
+      "ProjectId": 1,
+      "Key": "GDT_TestParam",
+      "Value": "TestValue",
+      "GlobalSheetId": null
     }
   ]
 }
