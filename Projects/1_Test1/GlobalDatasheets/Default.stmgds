@@ -1,0 +1,14 @@
+{
+  "Id": null,
+  "ProjectId": 1,
+  "Name": "Default",
+  "Parameters": [
+    {
+      "Id": 1,
+      "ProjectId": 1,
+      "Key": "GDT_Tempo",
+      "Value": "140",
+      "GlobalSheetId": null
+    }
+  ]
+}
