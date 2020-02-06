@@ -25,7 +25,7 @@
         {
           "Iteration": 1,
           "Value": "1",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -34,7 +34,7 @@
         {
           "Iteration": 2,
           "Value": "2",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -43,7 +43,7 @@
         {
           "Iteration": 3,
           "Value": "3",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -52,7 +52,7 @@
         {
           "Iteration": 4,
           "Value": "4",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -61,7 +61,7 @@
         {
           "Iteration": 5,
           "Value": "5",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -70,7 +70,7 @@
         {
           "Iteration": 6,
           "Value": "6",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -79,7 +79,7 @@
         {
           "Iteration": 7,
           "Value": "7",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -88,7 +88,16 @@
         {
           "Iteration": 8,
           "Value": "8",
-          "ParameterId": 1164,
+          "ParameterId": 1170,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "9",
+          "ParameterId": 1170,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -106,7 +115,7 @@
         {
           "Iteration": 1,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -115,7 +124,7 @@
         {
           "Iteration": 2,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -124,7 +133,7 @@
         {
           "Iteration": 3,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -133,7 +142,7 @@
         {
           "Iteration": 4,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -142,7 +151,7 @@
         {
           "Iteration": 5,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -151,7 +160,7 @@
         {
           "Iteration": 6,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -160,7 +169,7 @@
         {
           "Iteration": 7,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -169,7 +178,16 @@
         {
           "Iteration": 8,
           "Value": "0",
-          "ParameterId": 1165,
+          "ParameterId": 1171,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "",
+          "ParameterId": 1171,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -187,7 +205,7 @@
         {
           "Iteration": 1,
           "Value": "omnihil (8ft) Cable de alimentación de CA para Asus g11df-dbr5-gtx1060 PC de sobremesa procesador AMD ryzen 5 procesador GTX 1060 – color blanco",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -196,7 +214,7 @@
         {
           "Iteration": 2,
           "Value": "MSI ProSeries AMD A320 1ª 2ª 3ª generación compatible con Ryzen AM4 DDR4 HDMI DVI M.2 USB 3 Micro-ATX placa base (A320M-A PRO MAX)",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -205,7 +223,7 @@
         {
           "Iteration": 3,
           "Value": "VAR-697 - Samsung M471A1K43CB1 8GB DDR4 2400 MHz / 2666 MHz RAM Variación",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -214,7 +232,7 @@
         {
           "Iteration": 4,
           "Value": "Lenink CR2 Battery Eliminator Power Supply Adapter",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -223,7 +241,7 @@
         {
           "Iteration": 5,
           "Value": "Aerocool Cylon Mini Micro ATX RGB PC Gaming Case Full Tempered Glass Side Window 13 modos de iluminación 0.039 x 3.150 in negro ventilador incluido los jugadores construidos en mente negro",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -231,8 +249,8 @@
         },
         {
           "Iteration": 6,
-          "Value": "ASUS ROG-STRIX-RX580-O8G-GAMINGOC Edition GDDR5 DP HDMI DVI VR Ready AMD Graphics Card",
-          "ParameterId": 1166,
+          "Value": "TTAA GTX1060 6G Computer Game Graphics Card Desktop Independent HD Graphics",
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -241,7 +259,7 @@
         {
           "Iteration": 7,
           "Value": "Sceptre 24\" Curvo 75Hz Gaming LED Monitor Full HD 1080P HDMI VGA Altavoces VESA Montaje en Pared Ready Metal Negro 2019 (C248W-1920RN) Negro Metálico",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -250,7 +268,16 @@
         {
           "Iteration": 8,
           "Value": "Logitech mouse inalámbrico de M170 (910 – 004425) color gris",
-          "ParameterId": 1166,
+          "ParameterId": 1172,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "LG G5 H831 32 GB plata 53 pulgadas pantalla 16 MP Dual cámara Smartphone 4G LTE (GSM NO CDMA) Factory Unlocked",
+          "ParameterId": 1172,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -268,7 +295,7 @@
         {
           "Iteration": 1,
           "Value": "14.96",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -277,7 +304,7 @@
         {
           "Iteration": 2,
           "Value": "54.99",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -286,7 +313,7 @@
         {
           "Iteration": 3,
           "Value": "38.99",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -295,7 +322,7 @@
         {
           "Iteration": 4,
           "Value": "11.99",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -304,7 +331,7 @@
         {
           "Iteration": 5,
           "Value": "39.46",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -312,8 +339,8 @@
         },
         {
           "Iteration": 6,
-          "Value": "189.99",
-          "ParameterId": 1167,
+          "Value": "82.50",
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -322,7 +349,7 @@
         {
           "Iteration": 7,
           "Value": "109.97",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -331,7 +358,16 @@
         {
           "Iteration": 8,
           "Value": "11.29",
-          "ParameterId": 1167,
+          "ParameterId": 1173,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "134.99",
+          "ParameterId": 1173,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -349,7 +385,7 @@
         {
           "Iteration": 1,
           "Value": "ryzen 5 procesador",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -358,7 +394,7 @@
         {
           "Iteration": 2,
           "Value": "placa base am4",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -367,7 +403,7 @@
         {
           "Iteration": 3,
           "Value": "ram ddr4 8gb",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -376,7 +412,7 @@
         {
           "Iteration": 4,
           "Value": "power supply",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -385,7 +421,7 @@
         {
           "Iteration": 5,
           "Value": "micro atx case",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -394,7 +430,7 @@
         {
           "Iteration": 6,
           "Value": "graphics card",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -403,7 +439,7 @@
         {
           "Iteration": 7,
           "Value": "1080p 24\" monitor",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -412,7 +448,16 @@
         {
           "Iteration": 8,
           "Value": "logitech mouse",
-          "ParameterId": 1168,
+          "ParameterId": 1174,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "smartphone 4g",
+          "ParameterId": 1174,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -429,8 +474,8 @@
       "Iterations": [
         {
           "Iteration": 1,
-          "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_2?ie=UTF8&adId=A02807831OPN612Y1BG35&url=%2Falimentaci%25C3%25B3n-g11df-dbr5-gtx1060-PC-sobremesa-procesador-procesador%2Fdp%2FB07B1FGX82%2Fref%3Dsr_1_28_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dryzen%2B5%2Bprocessor%26qid%3D1581004020%26sr%3D8-28-spons%26psc%3D1&qualifier=1581004019&id=7151372260833813&widgetName=sp_mtf",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A02807831OPN612Y1BG35&url=%2Falimentaci%25C3%25B3n-g11df-dbr5-gtx1060-PC-sobremesa-procesador-procesador%2Fdp%2FB07B1FGX82%2Fref%3Dsr_1_17_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dryzen%2B5%2Bprocessor%26qid%3D1581004306%26sr%3D8-17-spons%26psc%3D1&qualifier=1581004306&id=4018161212374599&widgetName=sp_atf_next",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -438,8 +483,8 @@
         },
         {
           "Iteration": 2,
-          "Value": "https://www.amazon.com/-/es/ProSeries-generaci%C3%B3n-compatible-PRO-MAX/dp/B0822M7BS5/ref=sr_1_12?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=am4+motherboard&qid=1581004033&sr=8-12",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/ProSeries-generaci%C3%B3n-compatible-PRO-MAX/dp/B0822M7BS5/ref=sr_1_18?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=am4+motherboard&qid=1581004321&sr=8-18",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -447,8 +492,8 @@
         },
         {
           "Iteration": 3,
-          "Value": "https://www.amazon.com/-/es/VAR-697-Samsung-M471A1K43CB1-DDR4-Variaci%C3%B3n/dp/B06Y1RZW5P/ref=sr_1_20?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram+HDR4+8gb&qid=1581004060&sr=8-20",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/VAR-697-Samsung-M471A1K43CB1-DDR4-Variaci%C3%B3n/dp/B06Y1RZW5P/ref=sr_1_21?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=ram+HDR4+8gb&qid=1581004348&sr=8-21",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -456,8 +501,8 @@
         },
         {
           "Iteration": 4,
-          "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A0706311385961FEF8AFN&url=%2Fdp%2FB082M5TKCF%2Fref%3Dsr_1_27_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dpower%2Bsupply%26qid%3D1581004081%26sr%3D8-27-spons%26psc%3D1&qualifier=1581004081&id=7501489961858537&widgetName=sp_mtf",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A0706311385961FEF8AFN&url=%2Fdp%2FB082M5TKCF%2Fref%3Dsr_1_27_sspa%3F__mk_es_US%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dpower%2Bsupply%26qid%3D1581004361%26sr%3D8-27-spons%26psc%3D1&qualifier=1581004361&id=4317423041184001&widgetName=sp_mtf",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -465,8 +510,8 @@
         },
         {
           "Iteration": 5,
-          "Value": "https://www.amazon.com/-/es/Aerocool-iluminaci%C3%B3n-ventilador-jugadores-construidos/dp/B07HW7FFHR/ref=sr_1_95?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=micro+atx+case&qid=1581004114&sr=8-95",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/Aerocool-iluminaci%C3%B3n-ventilador-jugadores-construidos/dp/B07HW7FFHR/ref=sr_1_94?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=micro+atx+case&qid=1581004394&sr=8-94",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -474,8 +519,8 @@
         },
         {
           "Iteration": 6,
-          "Value": "https://www.amazon.com/-/es/ASUS-ROG-STRIX-RX580-O8G-GAMINGOC-GDDR5-Ready-Graphics/dp/B071D8YQJD/ref=sr_1_35?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graphics+card&qid=1581004124&sr=8-35",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/dp/B083W1684T/ref=sr_1_83?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=graphics+card&qid=1581004414&sr=8-83",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -483,8 +528,8 @@
         },
         {
           "Iteration": 7,
-          "Value": "https://www.amazon.com/-/es/Sceptre-Monitor-Altavoces-C248W-1920RN-Met%C3%A1lico/dp/B07KXSR99Y/ref=sr_1_36?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=24%22+monitor+1080p&qid=1581004144&sr=8-36",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/Sceptre-Monitor-Altavoces-C248W-1920RN-Met%C3%A1lico/dp/B07KXSR99Y/ref=sr_1_35?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=24%22+monitor+1080p&qid=1581004427&sr=8-35",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
@@ -492,8 +537,17 @@
         },
         {
           "Iteration": 8,
-          "Value": "https://www.amazon.com/-/es/Logitech-mouse-inal%C3%A1mbrico-M170-004425/dp/B019RPOZLI/ref=sr_1_55?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=logitech+mouse&qid=1581004171&sr=8-55",
-          "ParameterId": 1169,
+          "Value": "https://www.amazon.com/-/es/Logitech-mouse-inal%C3%A1mbrico-M170-004425/dp/B019RPOZLI/ref=sr_1_81?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=logitech+mouse&qid=1581004455&sr=8-81",
+          "ParameterId": 1175,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        },
+        {
+          "Iteration": 9,
+          "Value": "https://www.amazon.com/-/es/H831-pulgadas-pantalla-Smartphone-Unlocked/dp/B079RJVWNC/ref=sr_1_73?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=4g+smartphone&qid=1581004475&sr=8-73",
+          "ParameterId": 1175,
           "Skip": 0,
           "Name": null,
           "Created": null,
