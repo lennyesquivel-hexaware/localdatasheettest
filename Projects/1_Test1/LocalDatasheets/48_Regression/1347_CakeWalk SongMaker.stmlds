@@ -1,0 +1,80 @@
+{
+  "TestCase": {
+    "TempId": 48,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 7,
+    "IsExecutable": true,
+    "uri": "",
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "CakeWalk SongMaker",
+    "Created": null,
+    "Modified": null
+  },
+  "Parameters": [
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "1",
+          "ParameterId": 810,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1347,
+      "Name": "Iteration",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "0",
+          "ParameterId": 811,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1347,
+      "Name": "Skip",
+      "Created": null,
+      "Modified": null
+    },
+    {
+      "TempId": 0,
+      "Iterations": [
+        {
+          "Iteration": 1,
+          "Value": "108",
+          "ParameterId": 812,
+          "Skip": 0,
+          "Name": null,
+          "Created": null,
+          "Modified": null
+        }
+      ],
+      "DataSheetId": 1347,
+      "Name": "DT_Tempo",
+      "Created": null,
+      "Modified": null
+    }
+  ],
+  "Name": "CakeWalk SongMaker",
+  "Created": null,
+  "Modified": null
+}
